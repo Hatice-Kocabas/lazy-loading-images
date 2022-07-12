@@ -1,5 +1,5 @@
 
-This project was made for lazy loading of images using the unsplash api.
+This project was made with react for lazy loading of images using the unsplash api .
 
 Screenshot:
 
